@@ -1,2 +1,7 @@
 # login-fullstack-app
-Fullstack Login-Register App using Angular 17, JWT and Spring Boot 4
+Fullstack Login App. Developed w/ Spring Boot, JWT, JPA & Angular
+-
+Branches divided in:
+-
+main -> development -> backend
+                    -> frontend
